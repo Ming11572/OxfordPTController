@@ -12,7 +12,9 @@ pip install matplotlib==3.10.1
 pip install pyvisa==1.14.1
 ```
 # 使用
-1. 运行 “ pt_controller.py ”文件中的 main函数，正常情况会有如下弹窗：
+```console
+python py_controller.py
+```
 
 ![image.png](pics/image.png)
 
