@@ -15,6 +15,7 @@ pip install pyvisa==1.14.1
 1. 运行 “ pt_controller.py ”文件中的 main函数，正常情况会有如下弹窗：
 
 ![image.png](pics/image.png)
+
 2. 单击 **Log Addr** 选择用于存放Log files的文件夹。
 3. 输入三个控制器的地址，示例中三个控制器均使用LAN口连接，ips为磁体控制器，itc/he3为插杆的温控仪。
 4. 单击 connect，如果是第一次使用，会弹出设置窗口，根据实际情况进行设置(如果已经设置过了，在主窗口中点setting可进行修改。
