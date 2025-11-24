@@ -1,5 +1,5 @@
 # OxfordPTController
-A GUI program for controlling Oxford testralonPT refrigeration. Different device configurations may require appropriate code modifications
+A GUI program (based on PySide6) for controlling Oxford testralonPT refrigeration. Different device configurations may require appropriate code modifications
 
 Acquire NI 488.2 driver　(ni-488.2XXX offline or other version)
 "https://www.ni.com/en/support/downloads/drivers/download.ni-488-2.html#575749"
